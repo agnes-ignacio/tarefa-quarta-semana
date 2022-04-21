@@ -8,4 +8,4 @@ function tabuada(num) {
     }
     return stringTabuada
 }
-console.log(tabuada(9))
+console.log(tabuada(23))

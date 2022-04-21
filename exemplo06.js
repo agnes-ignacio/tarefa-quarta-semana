@@ -7,4 +7,4 @@ function fatorial(num) {
     }
     return resultado
 }
-console.log(fatorial(3))
+console.log(fatorial(9))
